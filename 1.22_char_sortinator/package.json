@@ -1,0 +1,19 @@
+{
+  "name": "1.22_char_sortinator",
+  "version": "1.0.0",
+  "description": "sorts the characters in a given string",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "hrhb_1.22_char_sortinator"
+  },
+  "keywords": [
+    "hrhb"
+  ],
+  "author": "noble millie",
+  "license": "ISC"
+}
