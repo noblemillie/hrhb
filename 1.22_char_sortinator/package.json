@@ -4,7 +4,7 @@
   "description": "sorts the characters in a given string",
   "main": "index.js",
   "scripts": {
-    "test": "test",
+    "test": "node test.js",
     "start": "node server.js"
   },
   "repository": {
@@ -15,5 +15,8 @@
     "hrhb"
   ],
   "author": "noble millie",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
